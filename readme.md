@@ -5,5 +5,6 @@
 |:---:|---|---|---|
 |1|Titanic Tutorial|[Kaggle Korea](https://kaggle-kr.tistory.com/17])|
 
-
-2022.03.17 Aiffel Data Analysis Study Start
+|Date|Study Record|
+|:---:|:---:|
+|2022.03.17|Aiffel Data Analysis Study Start|
