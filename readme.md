@@ -9,7 +9,7 @@
 ---
 ## Dacon Study Record
 |Number|Date|Subject|My Data|
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |1|22.03.22~|Abalone|[Abalone]()|
 
 ---
