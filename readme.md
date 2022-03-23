@@ -1,5 +1,11 @@
 # Data Analysis Study Space
 ---
+|Date|Group|Study Record|
+|:---:|:---:|:---:|
+|22.03.17~|Aiffel|Aiffel Data Analysis Study Start|
+|22.03.22~|Dacon|1_전복나이예측|
+
+---
 ## Aiffel Study Record
 |Number|Date|Curriculum|Reference Link|My Study|
 |:------:|:---:|:---:|:---:|:---:|
@@ -8,12 +14,6 @@
 
 ---
 ## Dacon Study Record
-|Number|Date|Subject|My Data|
-|:---:|:---:|:---:|:---:|
-|1|22.03.22~|Abalone|[Abalone]()|
-
----
-|Date|Group|Study Record|
-|:---:|:---:|:---:|
-|22.03.17~|Aiffel|Aiffel Data Analysis Study Start|
-|22.03.22~|Dacon|1_전복나이예측|
+|Number|Date|Subject|My Data|Score|
+|:---:|:---:|:---:|:---:|:---:|
+|1|22.03.22~|Abalone|[Abalone]()||
