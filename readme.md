@@ -1,9 +1,9 @@
-# Data Analysis Study Space
+# Data Analysis Study
 ---
 |Date|Group|Study Record|
 |:---:|:---:|:---:|
 |22.03.17~|Aiffel|Aiffel Data Analysis Study Start|
-|22.03.22~|Dacon|1_전복나이예측|
+
 
 ---
 ## Aiffel Study Record
@@ -13,7 +13,7 @@
 |2|22-03-23~22.03.29|Porto Seguro|[Kaggle Site](https://www.kaggle.com/code/gpreda/porto-seguro-exploratory-analysis-and-prediction/notebook)|[2_Porto_Seguro](https://github.com/youngchurl/Data-Analysis-Study/tree/main/Write/2_porto_seguro)|
 
 ---
-## Dacon Study Record
+## Dacon Record
 |Number|Date|Subject|My Data|Score|
 |:---:|:---:|:---:|:---:|:---:|
-|1|22.03.22~|Abalone|[Abalone]()||
+
