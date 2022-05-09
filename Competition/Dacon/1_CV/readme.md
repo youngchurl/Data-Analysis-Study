@@ -12,4 +12,4 @@
 
 
 ## 리더보드
-![](https://github.com/youngchurl/Data-Analysis-Study/blob/main/Competition/Dacon/1_CV/cv_1%EB%B2%88%EC%A7%B8%20%EC%A0%9C%EC%B6%9C.png?raw=true)
+![](https://github.com/youngchurl/Data-Analysis-Study/blob/main/Competition/Dacon/1_CV/image/cv_1%EB%B2%88%EC%A7%B8%20%EC%A0%9C%EC%B6%9C.png?raw=true)
