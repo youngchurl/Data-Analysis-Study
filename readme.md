@@ -16,4 +16,4 @@
 ## Dacon Record
 |Number|Date|Subject|My Data|Score|
 |:---:|:---:|:---:|:---:|:---:|
-|1|22-04-06~22-05-13|CV_Image Classify|[]()|273|
+|1|22-04-06~22-05-13|CV_Image Classify|[Link](https://github.com/youngchurl/Data-Analysis-Study/tree/main/Competition/Dacon/1_CV)|273|
