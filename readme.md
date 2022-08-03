@@ -2,11 +2,11 @@
 ---
 |Date|Group|Study Record|
 |:---:|:---:|:---:|
-|22.03.17~|Aiffel|Aiffel Data Analysis Study Start|
+|22.03.17~22.06.17|Aiffel|Aiffel Data Analysis Study Start|
 
 
 ---
-## Aiffel Study Record
+## Study Record
 |Number|Date|Curriculum|Reference Link|My Study|
 |:------:|:---:|:---:|:---:|:---:|
 |1|22-03-17~22.03.22|Titanic Tutorial|[Kaggle Korea](https://kaggle-kr.tistory.com/17)|[1_Titanic](https://github.com/youngchurl/Data-Analysis-Study/tree/main/Write/1_Titanic)
@@ -14,6 +14,7 @@
 |3|22-03-30~22.04.05|NYCT|[Reference Site](https://www.kaggle.com/code/aiswaryaramachandran/eda-baseline-model-0-40-rmse/notebook)|[3_NYCT](https://github.com/youngchurl/Data-Analysis-Study/blob/main/Write/3_NYCT/NYCT.ipynb)|
 ---
 ## Dacon Record
-|Number|Date|Subject|My Data|Score|
+|Number|Date|Subject|My Data|Ranking|
 |:---:|:---:|:---:|:---:|:---:|
 |1|22-04-06~22-05-13|CV_Image Classify|[Link](https://github.com/youngchurl/Data-Analysis-Study/tree/main/Competition/Dacon/1_CV)|279|
+|2|22-07-26~22-08-03|Dam|[Link](https://github.com/youngchurl/Data-Analysis-Study/tree/main/Competition/Dacon/2_Dam)||
